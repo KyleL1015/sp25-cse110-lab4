@@ -28,5 +28,7 @@
     5. false
     6. true
 15. the '==' is the equality operator but with type conversions whereas '===' is the strict equality operator and won't perform conversions before checking
-17. modifyArray will create a newArr, and consecutively double and push all of the numbers in array into newArr
-19. 1\n 4\n 3\n 2\n
+
+17.modifyArray will create a newArr, and consecutively double and push all of the numbers in array into newArr
+
+19.1\n 4\n 3\n 2\n
